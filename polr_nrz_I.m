@@ -31,5 +31,5 @@ for i=1:length(t)
     endif
   endif
 endfor
-disp('decoding of nrzL');
+disp('decoding of nrzi');
 disp(result);
