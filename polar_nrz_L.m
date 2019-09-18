@@ -27,5 +27,5 @@ for i=1:length(t)
     endif
   endif
 endfor
-disp('nrz-l decoding');
+disp('nrz-L decoding');
 disp(result);
